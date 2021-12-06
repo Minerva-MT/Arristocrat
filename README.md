@@ -1,4 +1,5 @@
 # Description
+```
                            _         _                                   _     
      /\                   (_)       | |                                 | |    
     /  \     _ __   _ __   _   ___  | |_    ___     ___   _ __    __ _  | |_   
@@ -7,7 +8,7 @@
  /_/    \_\ |_|    |_|    |_| |___/  \__|  \___/   \___| |_|     \__,_|  \__|  
                                                                                
  andrew.borg@minerva.com.mt                                       by Minerva IS
-                                                                               
+                                                                            
 Password of the Day (POTD) generator for Arris Cable Modems
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Functions: 
@@ -30,6 +31,7 @@ Examples:
 	 Decrypt a seed value being used on Arris CMs:
 		 ./Arristocrat -D 0xF4BC50A0C5FC3B93 
 
+```
 
 # Building
 
